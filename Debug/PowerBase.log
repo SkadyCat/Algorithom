@@ -1,0 +1,11 @@
+﻿  PowerBase.cpp
+D:\Project\C++\PowerBase\buble_rank.h(7,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\buble_rank.h(8,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\debug.h(17,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\debug.h(35,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\debug.h(22,6): warning C4101: “para”: 未引用的局部变量
+D:\Project\C++\PowerBase\fast_rank.h(137,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\fast_rank.h(143,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\fast_rank.h(147,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++\PowerBase\node.h(60,20): warning C4018: “<”: 有符号/无符号不匹配
+  PowerBase.vcxproj -> D:\Project\C++\PowerBase\Debug\PowerBase.exe

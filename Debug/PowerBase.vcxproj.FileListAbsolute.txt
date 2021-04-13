@@ -1,0 +1,2 @@
+D:\Project\C++\PowerBase\Debug\PowerBase.exe
+D:\Project\C++\PowerBase\Debug\PowerBase.pdb
